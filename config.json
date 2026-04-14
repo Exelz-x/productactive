@@ -1,4 +1,4 @@
 {
-  "enabled": true,
+  "enabled": false,
   "allowed_versions": ["1.0", "1.1"]
 }
